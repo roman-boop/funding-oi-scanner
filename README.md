@@ -1,6 +1,4 @@
-Вот готовый файл `README.md` с полным описанием, оформлением и ссылками.
 
-```markdown
 # 📊 Funding & OI Scanner для BingX
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://www.python.org/)
