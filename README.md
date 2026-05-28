@@ -3,7 +3,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![BingX](https://img.shields.io/badge/Exchange-BingX-ffba00?logo=binance)](https://bingx.com/invite/FZGEZV)
 
 Сканер для фьючерсного рынка **BingX**, который в реальном времени отслеживает **Открытый Интерес (Open Interest)** и **Ставки Финансирования (Funding Rate)**. Помогает находить аномалии, «перегретые» монеты и моменты накопления позиций для принятия торговых решений.
 
